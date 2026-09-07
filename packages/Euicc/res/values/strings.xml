@@ -9,6 +9,16 @@
             \"sim-slot-mappings\": [
                 {
                     \"devices\": [
+                        \"haotian\"
+                    ],
+                    \"esim-slot-ids\": [],
+                    \"psim-slot-ids\": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    \"devices\": [
                         \"XIG05\",
                         \"diting\",
                         \"fuxi\",
